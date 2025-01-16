@@ -1,8 +1,8 @@
-import 'package:alugueis/consts/mensagens_app_consts.dart';
-import 'package:alugueis/models/aluguel_model.dart';
-import 'package:alugueis/models/aluguel_type.dart';
-import 'package:alugueis/pages/listagem/adicionar_dialog_widget.dart';
-import 'package:alugueis/repository/alugueis_repository.dart';
+import 'package:alugueis_app/consts/mensagens_app_consts.dart';
+import 'package:alugueis_app/models/aluguel_model.dart';
+import 'package:alugueis_app/models/aluguel_type.dart';
+import 'package:alugueis_app/pages/listagem/adicionar_dialog_widget.dart';
+import 'package:alugueis_app/repository/alugueis_repository.dart';
 import 'package:flutter/material.dart';
 
 class ListagemPage extends StatefulWidget {

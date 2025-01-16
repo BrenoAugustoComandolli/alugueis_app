@@ -1,6 +1,6 @@
-import 'package:alugueis/consts/mensagens_app_consts.dart';
-import 'package:alugueis/models/residencia_model.dart';
-import 'package:alugueis/repository/residencias_repository.dart';
+import 'package:alugueis_app/consts/mensagens_app_consts.dart';
+import 'package:alugueis_app/models/residencia_model.dart';
+import 'package:alugueis_app/repository/residencias_repository.dart';
 import 'package:flutter/material.dart';
 
 part 'card_residencia_widget.dart';

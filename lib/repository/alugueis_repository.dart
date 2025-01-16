@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:alugueis/models/aluguel_model.dart';
+import 'package:alugueis_app/models/aluguel_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class AlugueisRepository {

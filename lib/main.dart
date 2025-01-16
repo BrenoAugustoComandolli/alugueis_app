@@ -1,7 +1,7 @@
-import 'package:alugueis/consts/mensagens_app_consts.dart';
-import 'package:alugueis/pages/listagem/listagem_page.dart';
-import 'package:alugueis/pages/residencias/residencias_page.dart';
-import 'package:alugueis/pages/resumo/resumo_page.dart';
+import 'package:alugueis_app/consts/mensagens_app_consts.dart';
+import 'package:alugueis_app/pages/listagem/listagem_page.dart';
+import 'package:alugueis_app/pages/residencias/residencias_page.dart';
+import 'package:alugueis_app/pages/resumo/resumo_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const AlugueisApp());

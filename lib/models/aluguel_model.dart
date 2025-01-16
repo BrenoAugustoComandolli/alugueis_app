@@ -1,5 +1,5 @@
-import 'package:alugueis/models/aluguel_type.dart';
-import 'package:alugueis/models/residencia_model.dart';
+import 'package:alugueis_app/models/aluguel_type.dart';
+import 'package:alugueis_app/models/residencia_model.dart';
 import 'package:intl/intl.dart';
 
 class AluguelModel {

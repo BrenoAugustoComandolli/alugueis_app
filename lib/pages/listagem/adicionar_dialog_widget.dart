@@ -1,9 +1,9 @@
-import 'package:alugueis/consts/mensagens_app_consts.dart';
-import 'package:alugueis/formatters/real_input_formatter.dart';
-import 'package:alugueis/models/aluguel_model.dart';
-import 'package:alugueis/models/aluguel_type.dart';
-import 'package:alugueis/models/residencia_model.dart';
-import 'package:alugueis/widgets/combo_residencia_widget.dart';
+import 'package:alugueis_app/consts/mensagens_app_consts.dart';
+import 'package:alugueis_app/formatters/real_input_formatter.dart';
+import 'package:alugueis_app/models/aluguel_model.dart';
+import 'package:alugueis_app/models/aluguel_type.dart';
+import 'package:alugueis_app/models/residencia_model.dart';
+import 'package:alugueis_app/widgets/combo_residencia_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';

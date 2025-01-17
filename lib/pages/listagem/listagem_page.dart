@@ -4,6 +4,7 @@ import 'package:alugueis_app/models/aluguel_type.dart';
 import 'package:alugueis_app/pages/listagem/adicionar_dialog_widget.dart';
 import 'package:alugueis_app/repository/alugueis_repository.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 class ListagemPage extends StatefulWidget {
   const ListagemPage({super.key});
@@ -21,6 +22,7 @@ class _ListagemPageState extends State<ListagemPage> {
     super.initState();
 
     onLoad = repository.carregar();
+    FlutterNativeSplash.remove();
   }
 
   @override
